@@ -1,0 +1,30 @@
+
+.centered-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20%;
+  margin-left: 0.4rem;
+  margin-right: 0.4rem;
+}
+
+.MuiOutlinedInput-root fieldset {
+       border-color: #1d72e7 !important
+}
+
+.MuiOutlinedInput-root.Mui-focused fieldset {
+  border-color: #1d72e7  !important
+}
+
+.MuiOutlinedInput-root.Mui-focused fieldset {
+  border-color: #1d72e7  !important
+}
+
+.MuiOutlinedInput-root:hover fieldset {
+  border-color: yellow  !important
+}
+
+label.Mui-focused{
+  color: green !important;
+}
+
