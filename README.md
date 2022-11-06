@@ -7,3 +7,5 @@ changed color when its focused and make sure border doesnt overlap with label
 
 ![hover view](https://user-images.githubusercontent.com/65765214/200157661-39f69147-3d4b-4b2b-9dd8-cb7159849d08.png)
 different color for hover also
+
+To run this clone the repo and open in any editor then type npm install in your terminal.
